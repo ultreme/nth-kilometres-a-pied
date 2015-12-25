@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./youpi.sh | say
+./youpi.sh | say -r 500
